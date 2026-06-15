@@ -41,7 +41,7 @@ To obtain the data set of simulations you must :
      Below is a view of this  function. At right of the script are the descrip-
      tion of the variables.
 
-    2)  Execute the function named Outputs_FluctuationDissipation.m
+2)  Execute the function named Outputs_FluctuationDissipation.m
      This function generates all the estimations corresponding to the system
      of  SDE that we are studing.
 
