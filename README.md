@@ -12,13 +12,21 @@ In the folder named CodesFluctuationDissipation you will
 find the following functions of matlab:
 
 .- Inputs_FluctuationDissipation.m
+
 .- Outputs_FluctuationDissipation.m
+
 .- SDE.m
+
 .- DensityDerivativeDrift.m
+
 .- DensityAndDrift_0And1.m
+
 .- TheoreticalFunctions.m
+
 .- EK.m
+
 .- Pot.m
+
 .- S.m
 
 To obtain the data set of simulations you must :
