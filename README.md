@@ -1,5 +1,5 @@
 # Codes-inference-for-stochastic-damping-hamiltonian-systems
-This repository contain the codes I made for the numerical experiments of 
+This repository contains the codes I made for the numerical experiments of 
 one of my researh collaborations, the article :
 
 P. Cattiaux, J. R. León, A. A. Pineda Centeno & C. Prieur (2017). An overlook
